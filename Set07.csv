@@ -1,0 +1,631 @@
+﻿date,state,parliament,gender,population ('000)
+01/01/2020,Selangor,P.092 Sabak Bernam,both,48.104
+01/01/2020,Selangor,P.092 Sabak Bernam,both,47.062
+01/01/2020,Selangor,P.092 Sabak Bernam,both,1.042
+01/01/2020,Selangor,P.092 Sabak Bernam,female,23.486
+01/01/2020,Selangor,P.092 Sabak Bernam,male,24.618
+01/01/2021,Selangor,P.092 Sabak Bernam,both,48.2
+01/01/2021,Selangor,P.092 Sabak Bernam,both,47.3
+01/01/2021,Selangor,P.092 Sabak Bernam,both,1
+01/01/2021,Selangor,P.092 Sabak Bernam,female,23.6
+01/01/2021,Selangor,P.092 Sabak Bernam,male,24.6
+01/01/2022,Selangor,P.092 Sabak Bernam,both,48.4
+01/01/2022,Selangor,P.092 Sabak Bernam,both,47.5
+01/01/2022,Selangor,P.092 Sabak Bernam,both,0.9
+01/01/2022,Selangor,P.092 Sabak Bernam,female,23.8
+01/01/2022,Selangor,P.092 Sabak Bernam,male,24.6
+01/01/2020,Selangor,P.093 Sungai Besar,both,58.955
+01/01/2020,Selangor,P.093 Sungai Besar,both,55.722
+01/01/2020,Selangor,P.093 Sungai Besar,both,3.233
+01/01/2020,Selangor,P.093 Sungai Besar,female,27.765
+01/01/2020,Selangor,P.093 Sungai Besar,male,31.19
+01/01/2021,Selangor,P.093 Sungai Besar,both,59.1
+01/01/2021,Selangor,P.093 Sungai Besar,both,56.1
+01/01/2021,Selangor,P.093 Sungai Besar,both,3
+01/01/2021,Selangor,P.093 Sungai Besar,female,27.9
+01/01/2021,Selangor,P.093 Sungai Besar,male,31.2
+01/01/2022,Selangor,P.093 Sungai Besar,both,59.3
+01/01/2022,Selangor,P.093 Sungai Besar,both,56.5
+01/01/2022,Selangor,P.093 Sungai Besar,both,2.9
+01/01/2022,Selangor,P.093 Sungai Besar,female,28.1
+01/01/2022,Selangor,P.093 Sungai Besar,male,31.2
+01/01/2020,Selangor,P.094 Hulu Selangor,both,239.978
+01/01/2020,Selangor,P.094 Hulu Selangor,both,230.626
+01/01/2020,Selangor,P.094 Hulu Selangor,both,9.352
+01/01/2020,Selangor,P.094 Hulu Selangor,female,112.575
+01/01/2020,Selangor,P.094 Hulu Selangor,male,127.403
+01/01/2021,Selangor,P.094 Hulu Selangor,both,240.7
+01/01/2021,Selangor,P.094 Hulu Selangor,both,232
+01/01/2021,Selangor,P.094 Hulu Selangor,both,8.7
+01/01/2021,Selangor,P.094 Hulu Selangor,female,113.3
+01/01/2021,Selangor,P.094 Hulu Selangor,male,127.4
+01/01/2022,Selangor,P.094 Hulu Selangor,both,241.5
+01/01/2022,Selangor,P.094 Hulu Selangor,both,233.3
+01/01/2022,Selangor,P.094 Hulu Selangor,both,8.2
+01/01/2022,Selangor,P.094 Hulu Selangor,female,114
+01/01/2022,Selangor,P.094 Hulu Selangor,male,127.5
+01/01/2020,Selangor,P.095 Tanjong Karang,both,59.862
+01/01/2020,Selangor,P.095 Tanjong Karang,both,57.592
+01/01/2020,Selangor,P.095 Tanjong Karang,both,2.27
+01/01/2020,Selangor,P.095 Tanjong Karang,female,29.79
+01/01/2020,Selangor,P.095 Tanjong Karang,male,30.072
+01/01/2021,Selangor,P.095 Tanjong Karang,both,60
+01/01/2021,Selangor,P.095 Tanjong Karang,both,57.9
+01/01/2021,Selangor,P.095 Tanjong Karang,both,2.1
+01/01/2021,Selangor,P.095 Tanjong Karang,female,30
+01/01/2021,Selangor,P.095 Tanjong Karang,male,30.1
+01/01/2022,Selangor,P.095 Tanjong Karang,both,60.2
+01/01/2022,Selangor,P.095 Tanjong Karang,both,58.2
+01/01/2022,Selangor,P.095 Tanjong Karang,both,2
+01/01/2022,Selangor,P.095 Tanjong Karang,female,30.2
+01/01/2022,Selangor,P.095 Tanjong Karang,male,30.1
+01/01/2020,Selangor,P.096 Kuala Selangor,both,171.266
+01/01/2020,Selangor,P.096 Kuala Selangor,both,161.631
+01/01/2020,Selangor,P.096 Kuala Selangor,both,9.635
+01/01/2020,Selangor,P.096 Kuala Selangor,female,81.626
+01/01/2020,Selangor,P.096 Kuala Selangor,male,89.64
+01/01/2021,Selangor,P.096 Kuala Selangor,both,171.8
+01/01/2021,Selangor,P.096 Kuala Selangor,both,162.8
+01/01/2021,Selangor,P.096 Kuala Selangor,both,9
+01/01/2021,Selangor,P.096 Kuala Selangor,female,82.1
+01/01/2021,Selangor,P.096 Kuala Selangor,male,89.6
+01/01/2022,Selangor,P.096 Kuala Selangor,both,172.3
+01/01/2022,Selangor,P.096 Kuala Selangor,both,163.9
+01/01/2022,Selangor,P.096 Kuala Selangor,both,8.5
+01/01/2022,Selangor,P.096 Kuala Selangor,female,82.7
+01/01/2022,Selangor,P.096 Kuala Selangor,male,89.7
+01/01/2020,Selangor,P.097 Selayang,both,363.289
+01/01/2020,Selangor,P.097 Selayang,both,339.385
+01/01/2020,Selangor,P.097 Selayang,both,23.904
+01/01/2020,Selangor,P.097 Selayang,female,172.243
+01/01/2020,Selangor,P.097 Selayang,male,191.046
+01/01/2021,Selangor,P.097 Selayang,both,364.3
+01/01/2021,Selangor,P.097 Selayang,both,342.1
+01/01/2021,Selangor,P.097 Selayang,both,22.3
+01/01/2021,Selangor,P.097 Selayang,female,173.3
+01/01/2021,Selangor,P.097 Selayang,male,191
+01/01/2022,Selangor,P.097 Selayang,both,365.6
+01/01/2022,Selangor,P.097 Selayang,both,344.4
+01/01/2022,Selangor,P.097 Selayang,both,21.2
+01/01/2022,Selangor,P.097 Selayang,female,174.4
+01/01/2022,Selangor,P.097 Selayang,male,191.2
+01/01/2020,Selangor,P.098 Gombak,both,349.207
+01/01/2020,Selangor,P.098 Gombak,both,321.798
+01/01/2020,Selangor,P.098 Gombak,both,27.409
+01/01/2020,Selangor,P.098 Gombak,female,167.957
+01/01/2020,Selangor,P.098 Gombak,male,181.25
+01/01/2021,Selangor,P.098 Gombak,both,350.2
+01/01/2021,Selangor,P.098 Gombak,both,324.7
+01/01/2021,Selangor,P.098 Gombak,both,25.5
+01/01/2021,Selangor,P.098 Gombak,female,169
+01/01/2021,Selangor,P.098 Gombak,male,181.2
+01/01/2022,Selangor,P.098 Gombak,both,351.4
+01/01/2022,Selangor,P.098 Gombak,both,327.2
+01/01/2022,Selangor,P.098 Gombak,both,24.2
+01/01/2022,Selangor,P.098 Gombak,female,170.1
+01/01/2022,Selangor,P.098 Gombak,male,181.3
+01/01/2020,Selangor,P.099 Ampang,both,204.469
+01/01/2020,Selangor,P.099 Ampang,both,185.978
+01/01/2020,Selangor,P.099 Ampang,both,18.491
+01/01/2020,Selangor,P.099 Ampang,female,97.89
+01/01/2020,Selangor,P.099 Ampang,male,106.579
+01/01/2021,Selangor,P.099 Ampang,both,205.1
+01/01/2021,Selangor,P.099 Ampang,both,187.8
+01/01/2021,Selangor,P.099 Ampang,both,17.3
+01/01/2021,Selangor,P.099 Ampang,female,98.5
+01/01/2021,Selangor,P.099 Ampang,male,106.6
+01/01/2022,Selangor,P.099 Ampang,both,205.7
+01/01/2022,Selangor,P.099 Ampang,both,189.4
+01/01/2022,Selangor,P.099 Ampang,both,16.4
+01/01/2022,Selangor,P.099 Ampang,female,99.1
+01/01/2022,Selangor,P.099 Ampang,male,106.6
+01/01/2020,Selangor,P.100 Pandan,both,227.413
+01/01/2020,Selangor,P.100 Pandan,both,209.734
+01/01/2020,Selangor,P.100 Pandan,both,17.679
+01/01/2020,Selangor,P.100 Pandan,female,104.887
+01/01/2020,Selangor,P.100 Pandan,male,122.526
+01/01/2021,Selangor,P.100 Pandan,both,228.1
+01/01/2021,Selangor,P.100 Pandan,both,211.6
+01/01/2021,Selangor,P.100 Pandan,both,16.5
+01/01/2021,Selangor,P.100 Pandan,female,105.6
+01/01/2021,Selangor,P.100 Pandan,male,122.5
+01/01/2022,Selangor,P.100 Pandan,both,228.8
+01/01/2022,Selangor,P.100 Pandan,both,213.1
+01/01/2022,Selangor,P.100 Pandan,both,15.7
+01/01/2022,Selangor,P.100 Pandan,female,106.2
+01/01/2022,Selangor,P.100 Pandan,male,122.6
+01/01/2020,Selangor,P.101 Hulu Langat,both,347.569
+01/01/2020,Selangor,P.101 Hulu Langat,both,333.562
+01/01/2020,Selangor,P.101 Hulu Langat,both,14.007
+01/01/2020,Selangor,P.101 Hulu Langat,female,165.424
+01/01/2020,Selangor,P.101 Hulu Langat,male,182.145
+01/01/2021,Selangor,P.101 Hulu Langat,both,348.6
+01/01/2021,Selangor,P.101 Hulu Langat,both,335.6
+01/01/2021,Selangor,P.101 Hulu Langat,both,13
+01/01/2021,Selangor,P.101 Hulu Langat,female,166.5
+01/01/2021,Selangor,P.101 Hulu Langat,male,182.1
+01/01/2022,Selangor,P.101 Hulu Langat,both,349.7
+01/01/2022,Selangor,P.101 Hulu Langat,both,337.4
+01/01/2022,Selangor,P.101 Hulu Langat,both,12.3
+01/01/2022,Selangor,P.101 Hulu Langat,female,167.5
+01/01/2022,Selangor,P.101 Hulu Langat,male,182.3
+01/01/2020,Selangor,P.102 Bangi,both,687.609
+01/01/2020,Selangor,P.102 Bangi,both,621.84
+01/01/2020,Selangor,P.102 Bangi,both,65.769
+01/01/2020,Selangor,P.102 Bangi,female,322.502
+01/01/2020,Selangor,P.102 Bangi,male,365.107
+01/01/2021,Selangor,P.102 Bangi,both,689.6
+01/01/2021,Selangor,P.102 Bangi,both,628.2
+01/01/2021,Selangor,P.102 Bangi,both,61.4
+01/01/2021,Selangor,P.102 Bangi,female,324.6
+01/01/2021,Selangor,P.102 Bangi,male,365
+01/01/2022,Selangor,P.102 Bangi,both,691.9
+01/01/2022,Selangor,P.102 Bangi,both,633.5
+01/01/2022,Selangor,P.102 Bangi,both,58.4
+01/01/2022,Selangor,P.102 Bangi,female,326.5
+01/01/2022,Selangor,P.102 Bangi,male,365.4
+01/01/2020,Selangor,P.103 Puchong,both,375.181
+01/01/2020,Selangor,P.103 Puchong,both,339.659
+01/01/2020,Selangor,P.103 Puchong,both,35.522
+01/01/2020,Selangor,P.103 Puchong,female,176.569
+01/01/2020,Selangor,P.103 Puchong,male,198.612
+01/01/2021,Selangor,P.103 Puchong,both,376.3
+01/01/2021,Selangor,P.103 Puchong,both,343
+01/01/2021,Selangor,P.103 Puchong,both,33.3
+01/01/2021,Selangor,P.103 Puchong,female,177.7
+01/01/2021,Selangor,P.103 Puchong,male,198.6
+01/01/2022,Selangor,P.103 Puchong,both,377.5
+01/01/2022,Selangor,P.103 Puchong,both,345.8
+01/01/2022,Selangor,P.103 Puchong,both,31.7
+01/01/2022,Selangor,P.103 Puchong,female,178.8
+01/01/2022,Selangor,P.103 Puchong,male,198.8
+01/01/2020,Selangor,P.104 Subang,both,478.154
+01/01/2020,Selangor,P.104 Subang,both,431.857
+01/01/2020,Selangor,P.104 Subang,both,46.297
+01/01/2020,Selangor,P.104 Subang,female,220.465
+01/01/2020,Selangor,P.104 Subang,male,257.689
+01/01/2021,Selangor,P.104 Subang,both,479.5
+01/01/2021,Selangor,P.104 Subang,both,436.1
+01/01/2021,Selangor,P.104 Subang,both,43.4
+01/01/2021,Selangor,P.104 Subang,female,221.9
+01/01/2021,Selangor,P.104 Subang,male,257.6
+01/01/2022,Selangor,P.104 Subang,both,481.1
+01/01/2022,Selangor,P.104 Subang,both,439.8
+01/01/2022,Selangor,P.104 Subang,both,41.4
+01/01/2022,Selangor,P.104 Subang,female,223.2
+01/01/2022,Selangor,P.104 Subang,male,257.899
+01/01/2020,Selangor,P.105 Petaling Jaya,both,362.29
+01/01/2020,Selangor,P.105 Petaling Jaya,both,324.429
+01/01/2020,Selangor,P.105 Petaling Jaya,both,37.861
+01/01/2020,Selangor,P.105 Petaling Jaya,female,168.703
+01/01/2020,Selangor,P.105 Petaling Jaya,male,193.587
+01/01/2021,Selangor,P.105 Petaling Jaya,both,363.3
+01/01/2021,Selangor,P.105 Petaling Jaya,both,327.8
+01/01/2021,Selangor,P.105 Petaling Jaya,both,35.5
+01/01/2021,Selangor,P.105 Petaling Jaya,female,169.8
+01/01/2021,Selangor,P.105 Petaling Jaya,male,193.5
+01/01/2022,Selangor,P.105 Petaling Jaya,both,364.6
+01/01/2022,Selangor,P.105 Petaling Jaya,both,330.7
+01/01/2022,Selangor,P.105 Petaling Jaya,both,33.9
+01/01/2022,Selangor,P.105 Petaling Jaya,female,170.8
+01/01/2022,Selangor,P.105 Petaling Jaya,male,193.7
+01/01/2020,Selangor,P.106 Damansara,both,468.939
+01/01/2020,Selangor,P.106 Damansara,both,437.039
+01/01/2020,Selangor,P.106 Damansara,both,31.9
+01/01/2020,Selangor,P.106 Damansara,female,226.002
+01/01/2020,Selangor,P.106 Damansara,male,242.937
+01/01/2021,Selangor,P.106 Damansara,both,470.3
+01/01/2021,Selangor,P.106 Damansara,both,440.4
+01/01/2021,Selangor,P.106 Damansara,both,29.9
+01/01/2021,Selangor,P.106 Damansara,female,227.4
+01/01/2021,Selangor,P.106 Damansara,male,242.9
+01/01/2022,Selangor,P.106 Damansara,both,471.9
+01/01/2022,Selangor,P.106 Damansara,both,443.4
+01/01/2022,Selangor,P.106 Damansara,both,28.5
+01/01/2022,Selangor,P.106 Damansara,female,228.8
+01/01/2022,Selangor,P.106 Damansara,male,243
+01/01/2020,Selangor,P.107 Sungai Buloh,both,347.092
+01/01/2020,Selangor,P.107 Sungai Buloh,both,319.576
+01/01/2020,Selangor,P.107 Sungai Buloh,both,27.516
+01/01/2020,Selangor,P.107 Sungai Buloh,female,163.637
+01/01/2020,Selangor,P.107 Sungai Buloh,male,183.455
+01/01/2021,Selangor,P.107 Sungai Buloh,both,348.1
+01/01/2021,Selangor,P.107 Sungai Buloh,both,322.5
+01/01/2021,Selangor,P.107 Sungai Buloh,both,25.6
+01/01/2021,Selangor,P.107 Sungai Buloh,female,164.7
+01/01/2021,Selangor,P.107 Sungai Buloh,male,183.4
+01/01/2022,Selangor,P.107 Sungai Buloh,both,349.3
+01/01/2022,Selangor,P.107 Sungai Buloh,both,324.9
+01/01/2022,Selangor,P.107 Sungai Buloh,both,24.3
+01/01/2022,Selangor,P.107 Sungai Buloh,female,165.7
+01/01/2022,Selangor,P.107 Sungai Buloh,male,183.6
+01/01/2020,Selangor,P.108 Shah Alam,both,438.745
+01/01/2020,Selangor,P.108 Shah Alam,both,398.607
+01/01/2020,Selangor,P.108 Shah Alam,both,40.138
+01/01/2020,Selangor,P.108 Shah Alam,female,204.413
+01/01/2020,Selangor,P.108 Shah Alam,male,234.332
+01/01/2021,Selangor,P.108 Shah Alam,both,440
+01/01/2021,Selangor,P.108 Shah Alam,both,402.6
+01/01/2021,Selangor,P.108 Shah Alam,both,37.4
+01/01/2021,Selangor,P.108 Shah Alam,female,205.7
+01/01/2021,Selangor,P.108 Shah Alam,male,234.3
+01/01/2022,Selangor,P.108 Shah Alam,both,441.5
+01/01/2022,Selangor,P.108 Shah Alam,both,406
+01/01/2022,Selangor,P.108 Shah Alam,both,35.5
+01/01/2022,Selangor,P.108 Shah Alam,female,207
+01/01/2022,Selangor,P.108 Shah Alam,male,234.5
+01/01/2020,Selangor,P.109 Kapar,both,314.033
+01/01/2020,Selangor,P.109 Kapar,both,280.092
+01/01/2020,Selangor,P.109 Kapar,both,33.941
+01/01/2020,Selangor,P.109 Kapar,female,140.484
+01/01/2020,Selangor,P.109 Kapar,male,173.549
+01/01/2021,Selangor,P.109 Kapar,both,314.9
+01/01/2021,Selangor,P.109 Kapar,both,283.2
+01/01/2021,Selangor,P.109 Kapar,both,31.7
+01/01/2021,Selangor,P.109 Kapar,female,141.4
+01/01/2021,Selangor,P.109 Kapar,male,173.5
+01/01/2022,Selangor,P.109 Kapar,both,316
+01/01/2022,Selangor,P.109 Kapar,both,285.9
+01/01/2022,Selangor,P.109 Kapar,both,30.1
+01/01/2022,Selangor,P.109 Kapar,female,142.2
+01/01/2022,Selangor,P.109 Kapar,male,173.8
+01/01/2020,Selangor,P.110 Klang,both,297.837
+01/01/2020,Selangor,P.110 Klang,both,271.414
+01/01/2020,Selangor,P.110 Klang,both,26.423
+01/01/2020,Selangor,P.110 Klang,female,136.538
+01/01/2020,Selangor,P.110 Klang,male,161.299
+01/01/2021,Selangor,P.110 Klang,both,298.7
+01/01/2021,Selangor,P.110 Klang,both,274
+01/01/2021,Selangor,P.110 Klang,both,24.7
+01/01/2021,Selangor,P.110 Klang,female,137.4
+01/01/2021,Selangor,P.110 Klang,male,161.3
+01/01/2022,Selangor,P.110 Klang,both,299.7
+01/01/2022,Selangor,P.110 Klang,both,276.1
+01/01/2022,Selangor,P.110 Klang,both,23.6
+01/01/2022,Selangor,P.110 Klang,female,138.2
+01/01/2022,Selangor,P.110 Klang,male,161.5
+01/01/2020,Selangor,P.111 Kota Raja,both,523.094
+01/01/2020,Selangor,P.111 Kota Raja,both,478.924
+01/01/2020,Selangor,P.111 Kota Raja,both,44.17
+01/01/2020,Selangor,P.111 Kota Raja,female,244.007
+01/01/2020,Selangor,P.111 Kota Raja,male,279.087
+01/01/2021,Selangor,P.111 Kota Raja,both,524.6
+01/01/2021,Selangor,P.111 Kota Raja,both,483.3
+01/01/2021,Selangor,P.111 Kota Raja,both,41.3
+01/01/2021,Selangor,P.111 Kota Raja,female,245.6
+01/01/2021,Selangor,P.111 Kota Raja,male,279
+01/01/2022,Selangor,P.111 Kota Raja,both,526.4
+01/01/2022,Selangor,P.111 Kota Raja,both,487
+01/01/2022,Selangor,P.111 Kota Raja,both,39.3
+01/01/2022,Selangor,P.111 Kota Raja,female,247.1
+01/01/2022,Selangor,P.111 Kota Raja,male,279.3
+01/01/2020,Selangor,P.112 Kuala Langat,both,247.093
+01/01/2020,Selangor,P.112 Kuala Langat,both,237.796
+01/01/2020,Selangor,P.112 Kuala Langat,both,9.297
+01/01/2020,Selangor,P.112 Kuala Langat,female,118.778
+01/01/2020,Selangor,P.112 Kuala Langat,male,128.315
+01/01/2021,Selangor,P.112 Kuala Langat,both,247.8
+01/01/2021,Selangor,P.112 Kuala Langat,both,239.2
+01/01/2021,Selangor,P.112 Kuala Langat,both,8.6
+01/01/2021,Selangor,P.112 Kuala Langat,female,119.5
+01/01/2021,Selangor,P.112 Kuala Langat,male,128.3
+01/01/2022,Selangor,P.112 Kuala Langat,both,248.6
+01/01/2022,Selangor,P.112 Kuala Langat,both,240.5
+01/01/2022,Selangor,P.112 Kuala Langat,both,8.2
+01/01/2022,Selangor,P.112 Kuala Langat,female,120.3
+01/01/2022,Selangor,P.112 Kuala Langat,male,128.4
+01/01/2020,Selangor,P.113 Sepang,both,384.244
+01/01/2020,Selangor,P.113 Sepang,both,346.112
+01/01/2020,Selangor,P.113 Sepang,both,38.132
+01/01/2020,Selangor,P.113 Sepang,female,177.927
+01/01/2020,Selangor,P.113 Sepang,male,206.317
+01/01/2021,Selangor,P.113 Sepang,both,385.4
+01/01/2021,Selangor,P.113 Sepang,both,349.7
+01/01/2021,Selangor,P.113 Sepang,both,35.6
+01/01/2021,Selangor,P.113 Sepang,female,179.1
+01/01/2021,Selangor,P.113 Sepang,male,206.3
+01/01/2022,Selangor,P.113 Sepang,both,386.6
+01/01/2022,Selangor,P.113 Sepang,both,352.8
+01/01/2022,Selangor,P.113 Sepang,both,33.9
+01/01/2022,Selangor,P.113 Sepang,female,180.2
+01/01/2022,Selangor,P.113 Sepang,male,206.5
+01/01/2020,W.P. Kuala Lumpur,P.114 Kepong,both,106.199
+01/01/2020,W.P. Kuala Lumpur,P.114 Kepong,both,88.17
+01/01/2020,W.P. Kuala Lumpur,P.114 Kepong,both,18.029
+01/01/2020,W.P. Kuala Lumpur,P.114 Kepong,female,43.712
+01/01/2020,W.P. Kuala Lumpur,P.114 Kepong,male,62.487
+01/01/2021,W.P. Kuala Lumpur,P.114 Kepong,both,105.2
+01/01/2021,W.P. Kuala Lumpur,P.114 Kepong,both,88.5
+01/01/2021,W.P. Kuala Lumpur,P.114 Kepong,both,16.7
+01/01/2021,W.P. Kuala Lumpur,P.114 Kepong,female,43.6
+01/01/2021,W.P. Kuala Lumpur,P.114 Kepong,male,61.7
+01/01/2022,W.P. Kuala Lumpur,P.114 Kepong,both,104.2
+01/01/2022,W.P. Kuala Lumpur,P.114 Kepong,both,88.8
+01/01/2022,W.P. Kuala Lumpur,P.114 Kepong,both,15.5
+01/01/2022,W.P. Kuala Lumpur,P.114 Kepong,female,43.3
+01/01/2022,W.P. Kuala Lumpur,P.114 Kepong,male,60.9
+01/01/2020,W.P. Kuala Lumpur,P.115 Batu,both,219.132
+01/01/2020,W.P. Kuala Lumpur,P.115 Batu,both,172.546
+01/01/2020,W.P. Kuala Lumpur,P.115 Batu,both,46.586
+01/01/2020,W.P. Kuala Lumpur,P.115 Batu,female,87.379
+01/01/2020,W.P. Kuala Lumpur,P.115 Batu,male,131.753
+01/01/2021,W.P. Kuala Lumpur,P.115 Batu,both,217.1
+01/01/2021,W.P. Kuala Lumpur,P.115 Batu,both,173.9
+01/01/2021,W.P. Kuala Lumpur,P.115 Batu,both,43.2
+01/01/2021,W.P. Kuala Lumpur,P.115 Batu,female,87.1
+01/01/2021,W.P. Kuala Lumpur,P.115 Batu,male,130
+01/01/2022,W.P. Kuala Lumpur,P.115 Batu,both,215.1
+01/01/2022,W.P. Kuala Lumpur,P.115 Batu,both,175.2
+01/01/2022,W.P. Kuala Lumpur,P.115 Batu,both,39.9
+01/01/2022,W.P. Kuala Lumpur,P.115 Batu,female,86.5
+01/01/2022,W.P. Kuala Lumpur,P.115 Batu,male,128.5
+01/01/2020,W.P. Kuala Lumpur,P.116 Wangsa Maju,both,215.6
+01/01/2020,W.P. Kuala Lumpur,P.116 Wangsa Maju,both,195.262
+01/01/2020,W.P. Kuala Lumpur,P.116 Wangsa Maju,both,20.338
+01/01/2020,W.P. Kuala Lumpur,P.116 Wangsa Maju,female,99.797
+01/01/2020,W.P. Kuala Lumpur,P.116 Wangsa Maju,male,115.803
+01/01/2021,W.P. Kuala Lumpur,P.116 Wangsa Maju,both,213.6
+01/01/2021,W.P. Kuala Lumpur,P.116 Wangsa Maju,both,195
+01/01/2021,W.P. Kuala Lumpur,P.116 Wangsa Maju,both,18.7
+01/01/2021,W.P. Kuala Lumpur,P.116 Wangsa Maju,female,99.3
+01/01/2021,W.P. Kuala Lumpur,P.116 Wangsa Maju,male,114.3
+01/01/2022,W.P. Kuala Lumpur,P.116 Wangsa Maju,both,211.6
+01/01/2022,W.P. Kuala Lumpur,P.116 Wangsa Maju,both,194.5
+01/01/2022,W.P. Kuala Lumpur,P.116 Wangsa Maju,both,17.1
+01/01/2022,W.P. Kuala Lumpur,P.116 Wangsa Maju,female,98.8
+01/01/2022,W.P. Kuala Lumpur,P.116 Wangsa Maju,male,112.8
+01/01/2020,W.P. Kuala Lumpur,P.117 Segambut,both,253.715
+01/01/2020,W.P. Kuala Lumpur,P.117 Segambut,both,218.026
+01/01/2020,W.P. Kuala Lumpur,P.117 Segambut,both,35.689
+01/01/2020,W.P. Kuala Lumpur,P.117 Segambut,female,121.519
+01/01/2020,W.P. Kuala Lumpur,P.117 Segambut,male,132.196
+01/01/2021,W.P. Kuala Lumpur,P.117 Segambut,both,251.4
+01/01/2021,W.P. Kuala Lumpur,P.117 Segambut,both,218.4
+01/01/2021,W.P. Kuala Lumpur,P.117 Segambut,both,33
+01/01/2021,W.P. Kuala Lumpur,P.117 Segambut,female,120.9
+01/01/2021,W.P. Kuala Lumpur,P.117 Segambut,male,130.5
+01/01/2022,W.P. Kuala Lumpur,P.117 Segambut,both,249
+01/01/2022,W.P. Kuala Lumpur,P.117 Segambut,both,218.6
+01/01/2022,W.P. Kuala Lumpur,P.117 Segambut,both,30.4
+01/01/2022,W.P. Kuala Lumpur,P.117 Segambut,female,120.3
+01/01/2022,W.P. Kuala Lumpur,P.117 Segambut,male,128.699
+01/01/2020,W.P. Kuala Lumpur,P.118 Setiawangsa,both,147.095
+01/01/2020,W.P. Kuala Lumpur,P.118 Setiawangsa,both,140.563
+01/01/2020,W.P. Kuala Lumpur,P.118 Setiawangsa,both,6.532
+01/01/2020,W.P. Kuala Lumpur,P.118 Setiawangsa,female,70.754
+01/01/2020,W.P. Kuala Lumpur,P.118 Setiawangsa,male,76.341
+01/01/2021,W.P. Kuala Lumpur,P.118 Setiawangsa,both,145.8
+01/01/2021,W.P. Kuala Lumpur,P.118 Setiawangsa,both,139.8
+01/01/2021,W.P. Kuala Lumpur,P.118 Setiawangsa,both,6
+01/01/2021,W.P. Kuala Lumpur,P.118 Setiawangsa,female,70.4
+01/01/2021,W.P. Kuala Lumpur,P.118 Setiawangsa,male,75.4
+01/01/2022,W.P. Kuala Lumpur,P.118 Setiawangsa,both,144.4
+01/01/2022,W.P. Kuala Lumpur,P.118 Setiawangsa,both,138.9
+01/01/2022,W.P. Kuala Lumpur,P.118 Setiawangsa,both,5.4
+01/01/2022,W.P. Kuala Lumpur,P.118 Setiawangsa,female,70
+01/01/2022,W.P. Kuala Lumpur,P.118 Setiawangsa,male,74.3
+01/01/2020,W.P. Kuala Lumpur,P.119 Titiwangsa,both,122.096
+01/01/2020,W.P. Kuala Lumpur,P.119 Titiwangsa,both,106.806
+01/01/2020,W.P. Kuala Lumpur,P.119 Titiwangsa,both,15.29
+01/01/2020,W.P. Kuala Lumpur,P.119 Titiwangsa,female,58.736
+01/01/2020,W.P. Kuala Lumpur,P.119 Titiwangsa,male,63.36
+01/01/2021,W.P. Kuala Lumpur,P.119 Titiwangsa,both,121
+01/01/2021,W.P. Kuala Lumpur,P.119 Titiwangsa,both,106.9
+01/01/2021,W.P. Kuala Lumpur,P.119 Titiwangsa,both,14.1
+01/01/2021,W.P. Kuala Lumpur,P.119 Titiwangsa,female,58.4
+01/01/2021,W.P. Kuala Lumpur,P.119 Titiwangsa,male,62.5
+01/01/2022,W.P. Kuala Lumpur,P.119 Titiwangsa,both,119.8
+01/01/2022,W.P. Kuala Lumpur,P.119 Titiwangsa,both,107
+01/01/2022,W.P. Kuala Lumpur,P.119 Titiwangsa,both,12.9
+01/01/2022,W.P. Kuala Lumpur,P.119 Titiwangsa,female,58.2
+01/01/2022,W.P. Kuala Lumpur,P.119 Titiwangsa,male,61.7
+01/01/2020,W.P. Kuala Lumpur,P.120 Bukit Bintang,both,120.529
+01/01/2020,W.P. Kuala Lumpur,P.120 Bukit Bintang,both,94.913
+01/01/2020,W.P. Kuala Lumpur,P.120 Bukit Bintang,both,25.616
+01/01/2020,W.P. Kuala Lumpur,P.120 Bukit Bintang,female,52.457
+01/01/2020,W.P. Kuala Lumpur,P.120 Bukit Bintang,male,68.072
+01/01/2021,W.P. Kuala Lumpur,P.120 Bukit Bintang,both,119.4
+01/01/2021,W.P. Kuala Lumpur,P.120 Bukit Bintang,both,95.6
+01/01/2021,W.P. Kuala Lumpur,P.120 Bukit Bintang,both,23.8
+01/01/2021,W.P. Kuala Lumpur,P.120 Bukit Bintang,female,52.2
+01/01/2021,W.P. Kuala Lumpur,P.120 Bukit Bintang,male,67.2
+01/01/2022,W.P. Kuala Lumpur,P.120 Bukit Bintang,both,118.3
+01/01/2022,W.P. Kuala Lumpur,P.120 Bukit Bintang,both,96.2
+01/01/2022,W.P. Kuala Lumpur,P.120 Bukit Bintang,both,22.1
+01/01/2022,W.P. Kuala Lumpur,P.120 Bukit Bintang,female,51.9
+01/01/2022,W.P. Kuala Lumpur,P.120 Bukit Bintang,male,66.4
+01/01/2020,W.P. Kuala Lumpur,P.121 Lembah Pantai,both,148.094
+01/01/2020,W.P. Kuala Lumpur,P.121 Lembah Pantai,both,138.041
+01/01/2020,W.P. Kuala Lumpur,P.121 Lembah Pantai,both,10.053
+01/01/2020,W.P. Kuala Lumpur,P.121 Lembah Pantai,female,72.759
+01/01/2020,W.P. Kuala Lumpur,P.121 Lembah Pantai,male,75.335
+01/01/2021,W.P. Kuala Lumpur,P.121 Lembah Pantai,both,146.7
+01/01/2021,W.P. Kuala Lumpur,P.121 Lembah Pantai,both,137.5
+01/01/2021,W.P. Kuala Lumpur,P.121 Lembah Pantai,both,9.2
+01/01/2021,W.P. Kuala Lumpur,P.121 Lembah Pantai,female,72.4
+01/01/2021,W.P. Kuala Lumpur,P.121 Lembah Pantai,male,74.4
+01/01/2022,W.P. Kuala Lumpur,P.121 Lembah Pantai,both,145.3
+01/01/2022,W.P. Kuala Lumpur,P.121 Lembah Pantai,both,136.9
+01/01/2022,W.P. Kuala Lumpur,P.121 Lembah Pantai,both,8.4
+01/01/2022,W.P. Kuala Lumpur,P.121 Lembah Pantai,female,72
+01/01/2022,W.P. Kuala Lumpur,P.121 Lembah Pantai,male,73.3
+01/01/2020,W.P. Kuala Lumpur,P.122 Seputeh,both,322.511
+01/01/2020,W.P. Kuala Lumpur,P.122 Seputeh,both,310.277
+01/01/2020,W.P. Kuala Lumpur,P.122 Seputeh,both,12.234
+01/01/2020,W.P. Kuala Lumpur,P.122 Seputeh,female,157.963
+01/01/2020,W.P. Kuala Lumpur,P.122 Seputeh,male,164.548
+01/01/2021,W.P. Kuala Lumpur,P.122 Seputeh,both,319.6
+01/01/2021,W.P. Kuala Lumpur,P.122 Seputeh,both,308.4
+01/01/2021,W.P. Kuala Lumpur,P.122 Seputeh,both,11.2
+01/01/2021,W.P. Kuala Lumpur,P.122 Seputeh,female,157.1
+01/01/2021,W.P. Kuala Lumpur,P.122 Seputeh,male,162.4
+01/01/2022,W.P. Kuala Lumpur,P.122 Seputeh,both,316.5
+01/01/2022,W.P. Kuala Lumpur,P.122 Seputeh,both,306.3
+01/01/2022,W.P. Kuala Lumpur,P.122 Seputeh,both,10.3
+01/01/2022,W.P. Kuala Lumpur,P.122 Seputeh,female,156.4
+01/01/2022,W.P. Kuala Lumpur,P.122 Seputeh,male,160.1
+01/01/2020,W.P. Kuala Lumpur,P.123 Cheras,both,135.823
+01/01/2020,W.P. Kuala Lumpur,P.123 Cheras,both,123.916
+01/01/2020,W.P. Kuala Lumpur,P.123 Cheras,both,11.907
+01/01/2020,W.P. Kuala Lumpur,P.123 Cheras,female,64.189
+01/01/2020,W.P. Kuala Lumpur,P.123 Cheras,male,71.634
+01/01/2021,W.P. Kuala Lumpur,P.123 Cheras,both,134.6
+01/01/2021,W.P. Kuala Lumpur,P.123 Cheras,both,123.6
+01/01/2021,W.P. Kuala Lumpur,P.123 Cheras,both,11
+01/01/2021,W.P. Kuala Lumpur,P.123 Cheras,female,63.9
+01/01/2021,W.P. Kuala Lumpur,P.123 Cheras,male,70.7
+01/01/2022,W.P. Kuala Lumpur,P.123 Cheras,both,133.3
+01/01/2022,W.P. Kuala Lumpur,P.123 Cheras,both,123.2
+01/01/2022,W.P. Kuala Lumpur,P.123 Cheras,both,10.1
+01/01/2022,W.P. Kuala Lumpur,P.123 Cheras,female,63.6
+01/01/2022,W.P. Kuala Lumpur,P.123 Cheras,male,69.7
+01/01/2020,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,both,191.318
+01/01/2020,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,both,185.146
+01/01/2020,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,both,6.172
+01/01/2020,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,female,93.941
+01/01/2020,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,male,97.377
+01/01/2021,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,both,189.6
+01/01/2021,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,both,183.9
+01/01/2021,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,both,5.6
+01/01/2021,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,female,93.5
+01/01/2021,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,male,96.1
+01/01/2022,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,both,187.8
+01/01/2022,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,both,182.6
+01/01/2022,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,both,5.1
+01/01/2022,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,female,93
+01/01/2022,W.P. Kuala Lumpur,P.124 Bandar Tun Razak,male,94.7
+01/01/2020,W.P. Putrajaya,P.125 Putrajaya,both,109.202
+01/01/2020,W.P. Putrajaya,P.125 Putrajaya,both,106.381
+01/01/2020,W.P. Putrajaya,P.125 Putrajaya,both,2.821
+01/01/2020,W.P. Putrajaya,P.125 Putrajaya,female,55.628
+01/01/2020,W.P. Putrajaya,P.125 Putrajaya,male,53.574
+01/01/2021,W.P. Putrajaya,P.125 Putrajaya,both,115.2
+01/01/2021,W.P. Putrajaya,P.125 Putrajaya,both,111.6
+01/01/2021,W.P. Putrajaya,P.125 Putrajaya,both,3.7
+01/01/2021,W.P. Putrajaya,P.125 Putrajaya,female,58.5
+01/01/2021,W.P. Putrajaya,P.125 Putrajaya,male,56.7
+01/01/2022,W.P. Putrajaya,P.125 Putrajaya,both,120.3
+01/01/2022,W.P. Putrajaya,P.125 Putrajaya,both,116.7
+01/01/2022,W.P. Putrajaya,P.125 Putrajaya,both,3.6
+01/01/2022,W.P. Putrajaya,P.125 Putrajaya,female,61.1
+01/01/2022,W.P. Putrajaya,P.125 Putrajaya,male,59.2
+01/01/2020,Negeri Sembilan,P.126 Jelebu,both,64.2
+01/01/2020,Negeri Sembilan,P.126 Jelebu,both,60.747
+01/01/2020,Negeri Sembilan,P.126 Jelebu,both,3.453
+01/01/2020,Negeri Sembilan,P.126 Jelebu,female,29.804
+01/01/2020,Negeri Sembilan,P.126 Jelebu,male,34.396
+01/01/2021,Negeri Sembilan,P.126 Jelebu,both,64.4
+01/01/2021,Negeri Sembilan,P.126 Jelebu,both,61.3
+01/01/2021,Negeri Sembilan,P.126 Jelebu,both,3.1
+01/01/2021,Negeri Sembilan,P.126 Jelebu,female,30
+01/01/2021,Negeri Sembilan,P.126 Jelebu,male,34.4
+01/01/2022,Negeri Sembilan,P.126 Jelebu,both,64.7
+01/01/2022,Negeri Sembilan,P.126 Jelebu,both,61.8
+01/01/2022,Negeri Sembilan,P.126 Jelebu,both,2.8
+01/01/2022,Negeri Sembilan,P.126 Jelebu,female,30.2
+01/01/2022,Negeri Sembilan,P.126 Jelebu,male,34.5
+01/01/2020,Negeri Sembilan,P.127 Jempol,both,108.379
+01/01/2020,Negeri Sembilan,P.127 Jempol,both,103.578
+01/01/2020,Negeri Sembilan,P.127 Jempol,both,4.801
+01/01/2020,Negeri Sembilan,P.127 Jempol,female,52.282
+01/01/2020,Negeri Sembilan,P.127 Jempol,male,56.097
+01/01/2021,Negeri Sembilan,P.127 Jempol,both,108.8
+01/01/2021,Negeri Sembilan,P.127 Jempol,both,104.4
+01/01/2021,Negeri Sembilan,P.127 Jempol,both,4.3
+01/01/2021,Negeri Sembilan,P.127 Jempol,female,52.6
+01/01/2021,Negeri Sembilan,P.127 Jempol,male,56.1
+01/01/2022,Negeri Sembilan,P.127 Jempol,both,109.2
+01/01/2022,Negeri Sembilan,P.127 Jempol,both,105.2
+01/01/2022,Negeri Sembilan,P.127 Jempol,both,4
+01/01/2022,Negeri Sembilan,P.127 Jempol,female,53
+01/01/2022,Negeri Sembilan,P.127 Jempol,male,56.2
+01/01/2020,Negeri Sembilan,P.128 Seremban,both,272.52
+01/01/2020,Negeri Sembilan,P.128 Seremban,both,249.455
+01/01/2020,Negeri Sembilan,P.128 Seremban,both,23.065
+01/01/2020,Negeri Sembilan,P.128 Seremban,female,132.011
+01/01/2020,Negeri Sembilan,P.128 Seremban,male,140.509
+01/01/2021,Negeri Sembilan,P.128 Seremban,both,273.5
+01/01/2021,Negeri Sembilan,P.128 Seremban,both,252.5
+01/01/2021,Negeri Sembilan,P.128 Seremban,both,20.9
+01/01/2021,Negeri Sembilan,P.128 Seremban,female,132.9
+01/01/2021,Negeri Sembilan,P.128 Seremban,male,140.6
+01/01/2022,Negeri Sembilan,P.128 Seremban,both,274.6
+01/01/2022,Negeri Sembilan,P.128 Seremban,both,255.4
+01/01/2022,Negeri Sembilan,P.128 Seremban,both,19.2
+01/01/2022,Negeri Sembilan,P.128 Seremban,female,133.8
+01/01/2022,Negeri Sembilan,P.128 Seremban,male,140.8
+01/01/2020,Negeri Sembilan,P.129 Kuala Pilah,both,71.004
+01/01/2020,Negeri Sembilan,P.129 Kuala Pilah,both,69.21
+01/01/2020,Negeri Sembilan,P.129 Kuala Pilah,both,1.794
+01/01/2020,Negeri Sembilan,P.129 Kuala Pilah,female,34.647
+01/01/2020,Negeri Sembilan,P.129 Kuala Pilah,male,36.357
+01/01/2021,Negeri Sembilan,P.129 Kuala Pilah,both,71.3
+01/01/2021,Negeri Sembilan,P.129 Kuala Pilah,both,69.6
+01/01/2021,Negeri Sembilan,P.129 Kuala Pilah,both,1.6
+01/01/2021,Negeri Sembilan,P.129 Kuala Pilah,female,34.9
+01/01/2021,Negeri Sembilan,P.129 Kuala Pilah,male,36.4
+01/01/2022,Negeri Sembilan,P.129 Kuala Pilah,both,71.5
+01/01/2022,Negeri Sembilan,P.129 Kuala Pilah,both,70.1
+01/01/2022,Negeri Sembilan,P.129 Kuala Pilah,both,1.5
+01/01/2022,Negeri Sembilan,P.129 Kuala Pilah,female,35.1
+01/01/2022,Negeri Sembilan,P.129 Kuala Pilah,male,36.4
+01/01/2020,Negeri Sembilan,P.130 Rasah,both,256.585
+01/01/2020,Negeri Sembilan,P.130 Rasah,both,243.617
+01/01/2020,Negeri Sembilan,P.130 Rasah,both,12.968
+01/01/2020,Negeri Sembilan,P.130 Rasah,female,125.05
+01/01/2020,Negeri Sembilan,P.130 Rasah,male,131.535
+01/01/2021,Negeri Sembilan,P.130 Rasah,both,257.5
+01/01/2021,Negeri Sembilan,P.130 Rasah,both,245.7
+01/01/2021,Negeri Sembilan,P.130 Rasah,both,11.7
+01/01/2021,Negeri Sembilan,P.130 Rasah,female,125.9
+01/01/2021,Negeri Sembilan,P.130 Rasah,male,131.6
+01/01/2022,Negeri Sembilan,P.130 Rasah,both,258.5
+01/01/2022,Negeri Sembilan,P.130 Rasah,both,247.8
+01/01/2022,Negeri Sembilan,P.130 Rasah,both,10.7
+01/01/2022,Negeri Sembilan,P.130 Rasah,female,126.8
+01/01/2022,Negeri Sembilan,P.130 Rasah,male,131.8
+01/01/2020,Negeri Sembilan,P.131 Rembau,both,210.209
+01/01/2020,Negeri Sembilan,P.131 Rembau,both,199.489
+01/01/2020,Negeri Sembilan,P.131 Rembau,both,10.72
+01/01/2020,Negeri Sembilan,P.131 Rembau,female,100.339
+01/01/2020,Negeri Sembilan,P.131 Rembau,male,109.87
+01/01/2021,Negeri Sembilan,P.131 Rembau,both,210.9
+01/01/2021,Negeri Sembilan,P.131 Rembau,both,201.3
+01/01/2021,Negeri Sembilan,P.131 Rembau,both,9.7
+01/01/2021,Negeri Sembilan,P.131 Rembau,female,101
+01/01/2021,Negeri Sembilan,P.131 Rembau,male,109.9
+01/01/2022,Negeri Sembilan,P.131 Rembau,both,211.8
+01/01/2022,Negeri Sembilan,P.131 Rembau,both,203
+01/01/2022,Negeri Sembilan,P.131 Rembau,both,8.8
+01/01/2022,Negeri Sembilan,P.131 Rembau,female,101.7
+01/01/2022,Negeri Sembilan,P.131 Rembau,male,110.1
+01/01/2020,Negeri Sembilan,P.132 Port Dickson,both,128.954
+01/01/2020,Negeri Sembilan,P.132 Port Dickson,both,122.844
+01/01/2020,Negeri Sembilan,P.132 Port Dickson,both,6.11
+01/01/2020,Negeri Sembilan,P.132 Port Dickson,female,60.545
+01/01/2020,Negeri Sembilan,P.132 Port Dickson,male,68.409
+01/01/2021,Negeri Sembilan,P.132 Port Dickson,both,129.4
+01/01/2021,Negeri Sembilan,P.132 Port Dickson,both,123.9
+01/01/2021,Negeri Sembilan,P.132 Port Dickson,both,5.5
+01/01/2021,Negeri Sembilan,P.132 Port Dickson,female,61
+01/01/2021,Negeri Sembilan,P.132 Port Dickson,male,68.4
+01/01/2022,Negeri Sembilan,P.132 Port Dickson,both,129.9
+01/01/2022,Negeri Sembilan,P.132 Port Dickson,both,124.9
+01/01/2022,Negeri Sembilan,P.132 Port Dickson,both,5
+01/01/2022,Negeri Sembilan,P.132 Port Dickson,female,61.4
+01/01/2022,Negeri Sembilan,P.132 Port Dickson,male,68.6
+01/01/2020,Negeri Sembilan,P.133 Tampin,both,88.123
+01/01/2020,Negeri Sembilan,P.133 Tampin,both,83.289
+01/01/2020,Negeri Sembilan,P.133 Tampin,both,4.834
+01/01/2020,Negeri Sembilan,P.133 Tampin,female,41.322
+01/01/2020,Negeri Sembilan,P.133 Tampin,male,46.801
+01/01/2021,Negeri Sembilan,P.133 Tampin,both,88.4
+01/01/2021,Negeri Sembilan,P.133 Tampin,both,84.1
+01/01/2021,Negeri Sembilan,P.133 Tampin,both,4.4
+01/01/2021,Negeri Sembilan,P.133 Tampin,female,41.6
+01/01/2021,Negeri Sembilan,P.133 Tampin,male,46.8
+01/01/2022,Negeri Sembilan,P.133 Tampin,both,88.8
+01/01/2022,Negeri Sembilan,P.133 Tampin,both,84.8
+01/01/2022,Negeri Sembilan,P.133 Tampin,both,4
+01/01/2022,Negeri Sembilan,P.133 Tampin,female,41.9
+01/01/2022,Negeri Sembilan,P.133 Tampin,male,46.9
